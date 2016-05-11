@@ -1,2 +1,5 @@
-# codefactor
-Automated static analysis for C#, Java and Ruby source code
+CodeFactor
+===========
+
+This repository is used for tracking bugs and feature requests for 
+[codefactor.io](https://www.codefactor.io/).
